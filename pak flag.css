@@ -1,0 +1,27 @@
+body{
+  background-color: white;
+  justify-self:center;
+}
+#div {
+  height: 200px;
+  width: 250px;
+  border: 2px solid white;
+  background-color:#ed1c24;
+}
+
+#div1{
+height: 100px;
+width: 250px;
+background-color: #fff200;
+}
+
+#div2{
+  height: 50px;
+  width: 250px;
+  background-color:#0066b3;
+  }
+#div3{
+    height: 50px;
+    width: 250px;
+    background-color:#ed1c24;
+    }
